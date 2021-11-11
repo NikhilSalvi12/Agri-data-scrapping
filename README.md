@@ -3,7 +3,7 @@ retrive data of potato prices in Agra during 2020 from https://agmarknet.gov.in/
 
 # Libraries used:
 1. selenium
-2. webdriver
+2. webdriver_manager
 3. time
 
 # Objective:
@@ -13,3 +13,4 @@ retrive data of potato prices in Agra during 2020 from https://agmarknet.gov.in/
 # IDE:
 Pycharm
 
+to run the program will need to install the supporting libraries Selenium and webdriver_manager using pip install
